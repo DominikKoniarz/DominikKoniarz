@@ -1,6 +1,6 @@
 # Hi, I'm Dominik!
 
-## :page_with_curl: My Projects:
+## :page_with_curl: My Projects (front-end):
 1. [To Do List Application](https://github.com/DominikKoniarz/To-Do-List-App)
 2. [Vertical Timeline](https://github.com/DominikKoniarz/Vertical-Timeline)
 3. [Tic Tac Toe Game](https://github.com/DominikKoniarz/Tic-Tac-Toe-Game)
