@@ -1,9 +1,12 @@
 # Hi, I'm Dominik!
 
-## :page_with_curl: My Projects (front-end):
-1. [To Do List Application](https://github.com/DominikKoniarz/To-Do-List-App)
-2. [Vertical Timeline](https://github.com/DominikKoniarz/Vertical-Timeline)
-3. [Tic Tac Toe Game](https://github.com/DominikKoniarz/Tic-Tac-Toe-Game)
+## :page_with_curl: My Projects:
+### Front-end:
+  1. [To Do List Application](https://github.com/DominikKoniarz/To-Do-List-App)
+  2. [Vertical Timeline](https://github.com/DominikKoniarz/Vertical-Timeline)
+  3. [Tic Tac Toe Game](https://github.com/DominikKoniarz/Tic-Tac-Toe-Game)
+### Full-Stack:
+  1. [URL Shortener](https://github.com/DominikKoniarz/URL-Shortener)
 
 <!--
 **DominikKoniarz/DominikKoniarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
