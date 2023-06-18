@@ -8,6 +8,9 @@
 ### Full-Stack:
   1. [URL Shortener](https://github.com/DominikKoniarz/URL-Shortener)
 
+## Currently working on:
+  1. [React Contact Form](https://github.com/DominikKoniarz/React-Contact-Form)
+
 <!--
 **DominikKoniarz/DominikKoniarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
