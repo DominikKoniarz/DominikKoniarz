@@ -6,10 +6,8 @@
   2. [Vertical Timeline](https://github.com/DominikKoniarz/Vertical-Timeline)
   3. [Tic Tac Toe Game](https://github.com/DominikKoniarz/Tic-Tac-Toe-Game)
 ### Full-Stack:
-  1. [URL Shortener](https://github.com/DominikKoniarz/URL-Shortener)
-
-## Currently working on:
-  1. [React Contact Form](https://github.com/DominikKoniarz/React-Contact-Form)
+  1. [Golang Chat Application](https://github.com/DominikKoniarz/chat-app-golang)
+  2. [URL Shortener](https://github.com/DominikKoniarz/URL-Shortener)
 
 <!--
 **DominikKoniarz/DominikKoniarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
