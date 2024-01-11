@@ -8,7 +8,7 @@
 ### Full-Stack:
   1. [Golang Chat Application](https://github.com/DominikKoniarz/chat-app-golang)
   2. [URL Shortener](https://github.com/DominikKoniarz/URL-Shortener)
-
+  3. [React NodeJS Newsletter App](https://newsletter.dominikkoniarz.pl/)
 <!--
 **DominikKoniarz/DominikKoniarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
