@@ -1,14 +1,16 @@
 # Hi, I'm Dominik!
 
 ## 📃 My Projects:
-### Front-end:
+### Full-Stack:
+  1. [Next.js Todo List App](https://github.com/DominikKoniarz/nextjs-todo-list)
+  2. [Social Media App](https://github.com/DominikKoniarz/Social-Media-App)
+  3. [Golang Chat Application](https://github.com/DominikKoniarz/chat-app-golang)
+  4. [URL Shortener](https://github.com/DominikKoniarz/URL-Shortener)
+  5. [React NodeJS Newsletter App](https://newsletter.dominikkoniarz.pl/)
+### Front-end (early phase of learning web dev):
   1. [To Do List Application](https://github.com/DominikKoniarz/To-Do-List-App)
   2. [Vertical Timeline](https://github.com/DominikKoniarz/Vertical-Timeline)
   3. [Tic Tac Toe Game](https://github.com/DominikKoniarz/Tic-Tac-Toe-Game)
-### Full-Stack:
-  1. [Golang Chat Application](https://github.com/DominikKoniarz/chat-app-golang)
-  2. [URL Shortener](https://github.com/DominikKoniarz/URL-Shortener)
-  3. [React NodeJS Newsletter App](https://newsletter.dominikkoniarz.pl/)
 <!--
 **DominikKoniarz/DominikKoniarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
