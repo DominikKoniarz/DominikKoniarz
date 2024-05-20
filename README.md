@@ -1,5 +1,7 @@
 # Hi, I'm Dominik!
 
+I'm passionate Full Stack Developer, mainly focused in JavaScript ecosystem. Being a creator of new stuff makes me happy.
+
 ## 📃 My Projects:
 ### Full-Stack:
   1. [Next.js Todo List App](https://github.com/DominikKoniarz/nextjs-todo-list)
