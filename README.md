@@ -9,6 +9,9 @@ I'm passionate Full Stack Developer, mainly focused in JavaScript (React.js/Next
 
 ---
 
+### :handshake: Realizations:
+  1. [Swiftproxy](https://swiftproxy.io/)
+
 ### 📃 My latest Projects:
   1. [Next.js Todo List App](https://github.com/DominikKoniarz/nextjs-todo-list)
   2. [Next.js OpenAI API Integration](https://github.com/DominikKoniarz/nextjs-chatgpt-integration)
