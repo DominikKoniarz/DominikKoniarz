@@ -12,16 +12,19 @@ I'm passionate Full Stack Developer, mainly focused in JavaScript (React.js/Next
 ### :handshake: Realizations:
   1. [Swiftproxy](https://swiftproxy.io/)
 
+<!---
 ### :crystal_ball: Cooking:
   1. [Advanced DB Sessions](https://github.com/DominikKoniarz/nextjs-advanced-multiple-db-sessions)
+-->
 
 ### 📃 My latest Projects:
-  1. [Next.js Todo List App](https://github.com/DominikKoniarz/nextjs-todo-list)
-  2. [Next.js OpenAI API Integration](https://github.com/DominikKoniarz/nextjs-chatgpt-integration)
-  3. [Social Media App](https://github.com/DominikKoniarz/Social-Media-App)
-  4. [Golang Chat Application](https://github.com/DominikKoniarz/chat-app-golang)
-  5. [URL Shortener](https://github.com/DominikKoniarz/URL-Shortener)
-  6. [React NodeJS Newsletter App](https://newsletter.dominikkoniarz.pl/)
+  1. [Advanced DB Sessions](https://github.com/DominikKoniarz/nextjs-advanced-multiple-db-sessions)
+  2. [Next.js Todo List App](https://github.com/DominikKoniarz/nextjs-todo-list)
+  3. [Next.js OpenAI API Integration](https://github.com/DominikKoniarz/nextjs-chatgpt-integration)
+  4. [Social Media App](https://github.com/DominikKoniarz/Social-Media-App)
+  5. [Golang Chat Application](https://github.com/DominikKoniarz/chat-app-golang)
+  6. [URL Shortener](https://github.com/DominikKoniarz/URL-Shortener)
+  7. [React NodeJS Newsletter App](https://newsletter.dominikkoniarz.pl/)
 
 :arrow_forward: [And more...](https://github.com/DominikKoniarz?tab=repositories)
 
