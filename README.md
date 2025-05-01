@@ -27,10 +27,11 @@ I'm passionate Full Stack Developer, mainly focused in JavaScript (React.js/Next
   7. [React NodeJS Newsletter App](https://newsletter.dominikkoniarz.pl/)
 
 :arrow_forward: [And more...](https://github.com/DominikKoniarz?tab=repositories)
-
+<!---
 ### :chart_with_upwards_trend: My Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominikkoniarz&show_icons=true&locale=en&layout=compact" alt="dominikkoniarz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dominikkoniarz&show_icons=true&locale=en" alt="dominikkoniarz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dominikkoniarz&" alt="dominikkoniarz" /></p>
+-->
