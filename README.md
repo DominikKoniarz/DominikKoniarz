@@ -3,15 +3,15 @@
 I'm passionate Full Stack Developer, mainly focused on JavaScript ecosystem. </br> I like trying new stuff. Being a creator of new things makes me happy.
 
 
-### :handshake: Realizations:
-  1. [Swiftproxy](https://swiftproxy.io/)
+<!-- ### :handshake: Realizations:
+  1. [Swiftproxy](https://swiftproxy.io/)-->
 
 <!---
 ### :crystal_ball: Cooking:
   1. [Advanced DB Sessions](https://github.com/DominikKoniarz/nextjs-advanced-multiple-db-sessions)
 -->
 
-### 📃 My latest Projects:
+<!--### 📃 My latest Projects:
   1. [Site builder](https://github.com/DominikKoniarz/site-builder-test)
   2. [Advanced DB Sessions](https://github.com/DominikKoniarz/nextjs-advanced-multiple-db-sessions)
   3. [Next.js Todo List App](https://github.com/DominikKoniarz/nextjs-todo-list)
@@ -22,6 +22,9 @@ I'm passionate Full Stack Developer, mainly focused on JavaScript ecosystem. </b
   8. [React NodeJS Newsletter App](https://newsletter.dominikkoniarz.pl/)
 
 :arrow_forward: [And more...](https://github.com/DominikKoniarz?tab=repositories)
+-->
+
+
 <!---
 ### :chart_with_upwards_trend: My Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominikkoniarz&show_icons=true&locale=en&layout=compact" alt="dominikkoniarz" /></p>
