@@ -1,6 +1,6 @@
 # Hi, I'm Dominik!
 
-I'm passionate Full Stack Developer, mainly focused on JavaScript ecosystem. </br> I like trying new stuff. Being a creator of new things makes me happy.
+I'm a passionate Full Stack Developer, mainly focused on the TypeScript ecosystem. </br> I enjoy building stuff.
 
 
 <!-- ### :handshake: Realizations:
